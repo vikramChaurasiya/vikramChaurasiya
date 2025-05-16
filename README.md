@@ -12,7 +12,7 @@
 - 💻 Passionate about building full-stack web applications using the **MERN Stack**
 - 🌱 Learning advanced concepts in **MongoDB, Mongoose, Express.js, and API Integration**
 - 📫 Reach me: **bhartivikram633@gmail.com**
-- 🔗 Projects & Portfolio: [LinkedIn - VIKRAM KR CHAURASIYA](https://www.linkedin.com/in/vikram-kr-chaurasiya)
+- 🔗 Projects & Portfolio: [LinkedIn - VIKRAM KR CHAURASIYA](https://www.linkedin.com/in/vikram-kr-chaurasiya-608901235?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
@@ -71,7 +71,7 @@
 
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vikram-kr-chaurasiya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vikram-kr-chaurasiya-608901235?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhartivikram633@gmail.com)
 
 ![Visitors](https://komarev.com/ghpvc/?username=vikramChaurasiya&style=flat-square&color=blue)
